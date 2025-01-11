@@ -4,9 +4,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.github.sashirestela</groupId>
-  <artifactId>simple-openai</artifactId>
-  <version>3.14.0</version>
+  <groupId>de.peak.impulse</groupId>
+  <artifactId>openai-lib</artifactId>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>simple-openai</name>
