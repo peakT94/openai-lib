@@ -6,7 +6,7 @@
 
   <groupId>de.peak.impulse</groupId>
   <artifactId>openai-lib</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>jar</packaging>
 
   <name>simple-openai</name>
@@ -20,7 +20,12 @@
     </license>
   </licenses>
 
-
+  <developers>
+    <developer>
+      <name>Timo Kübler</name>
+      <organization>Peak Impulse</organization>
+    </developer>
+  </developers>
 
 
 
